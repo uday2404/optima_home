@@ -1,0 +1,21 @@
+
+.content{
+    padding: 100px;
+}
+
+.bckgrd{
+    
+   
+    background-image: url('/icwallet.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+.sn
+{
+    background-color: blue;
+}
